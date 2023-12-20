@@ -4,7 +4,7 @@
 
 # Project Overview
 
-This project refers to article https://medium.com/@leticia-mirelly, use the basic branch for the basic project and the production branch for the latest webpack configurations.
+This project refers to article https://medium.com/@leticia-mirelly, use the main-basic branch for the basic project and the production branch for the latest webpack configurations.
 
 This React.js project, enriched with TypeScript, Redux, Tailwind CSS and Webpack 5, serves educational purposes as described in article "x". The main focus is to provide a didactic exploration of performance techniques, code splitting, tree shaking and webpack 5.
 This project uses data from an external API that can be found [here](https://github.com/r-spacex/SpaceX-API/tree/master).  It is a private project intended exclusively for educational purposes.

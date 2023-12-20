@@ -1,0 +1,26 @@
+.env
+.env-development
+.env-production
+
+# Dependency directories
+node_modules/
+
+# Editor
+.vscode
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Ignore dist & converage folders
+dist/
+converage/
+
+# Environments
+.env
+
+
+*-lock.json
